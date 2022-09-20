@@ -1,3 +1,7 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [💡 About TIL](README.md)
+
+## ✏ Diary
+
+* [🧐 2022.09.20](diary/2022.09.20.md)
