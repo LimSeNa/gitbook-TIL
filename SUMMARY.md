@@ -1,7 +1,4 @@
 # Table of contents
 
-* [💡 About TIL](README.md)
-
-## ✏ Diary
-
-* [2022.09.21](diary/2022.09.21.md)
+* [💡 About Home](README.md)
+* [🤓 1회차 - 2023.01.08(일)](1-2023.01.08.md)
